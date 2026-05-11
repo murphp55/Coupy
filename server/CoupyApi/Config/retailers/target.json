@@ -1,0 +1,17 @@
+{
+  "id": "target",
+  "name": "Target",
+  "rules": {
+    "perItemLimits": {
+      "Manufacturer": 1,
+      "Store": 1,
+      "DigitalClipped": 99
+    },
+    "oncePerBasket": [],
+    "rewardsAsTender": [],
+    "stackCashback": true,
+    "supportsPortalCashback": true,
+    "notes": "One manufacturer + one Target coupon per item, plus any Circle offers that apply (each Circle offer applies once per basket unless otherwise stated). Circle Bonuses (spend $X get $Y) stack on top as SpendThreshold offers. Target RedCard gives an additional 5% at checkout — represent as PaymentReward. Online promo codes via Rakuten Advertising work for target.com.",
+    "policyUrl": "https://help.target.com/help/subcategoryarticle?childcat=Coupons&parentcat=Find+Products&searchQuery=coupon+policy"
+  }
+}

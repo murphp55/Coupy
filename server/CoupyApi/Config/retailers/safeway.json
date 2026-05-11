@@ -1,0 +1,16 @@
+{
+  "id": "safeway",
+  "name": "Safeway / Albertsons",
+  "rules": {
+    "perItemLimits": {
+      "Manufacturer": 1,
+      "DigitalClipped": 99
+    },
+    "oncePerBasket": [],
+    "rewardsAsTender": [],
+    "stackCashback": true,
+    "supportsPortalCashback": false,
+    "notes": "Single rulebook covers Safeway, Albertsons, Vons, Jewel-Osco, Shaw's, Acme, Tom Thumb, Randalls — all run on 'Just for U' loyalty. One manufacturer coupon per item + any number of distinct J4U digital offers. Weekly-ad sale prices are base prices (ingest via Flipp). Ibotta stacks on top.",
+    "policyUrl": "https://www.safeway.com/help/coupon-policy.html"
+  }
+}

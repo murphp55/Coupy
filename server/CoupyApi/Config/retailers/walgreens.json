@@ -1,0 +1,17 @@
+{
+  "id": "walgreens",
+  "name": "Walgreens",
+  "rules": {
+    "perItemLimits": {
+      "Manufacturer": 1,
+      "Store": 1,
+      "DigitalClipped": 99
+    },
+    "oncePerBasket": [],
+    "rewardsAsTender": ["LoyaltyReward"],
+    "stackCashback": true,
+    "supportsPortalCashback": false,
+    "notes": "One manufacturer and one Walgreens (store or digital) coupon per item. Register Rewards print as cash-equivalent tender and can be used on future transactions, but can't be used on the transaction that earns them. Ibotta stacks on top.",
+    "policyUrl": "https://www.walgreens.com/topic/promotion/couponpolicy.jsp"
+  }
+}

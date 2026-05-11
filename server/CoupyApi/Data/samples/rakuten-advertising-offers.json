@@ -1,0 +1,29 @@
+[
+  {
+    "id": "rakuten-advertising:ra-001",
+    "source": "rakuten-advertising",
+    "sourceOfferId": "ra-001",
+    "type": "promoCode",
+    "discountType": "percentOff",
+    "value": 15,
+    "brandName": "Target",
+    "productDescription": "15% off first Target.com order with RedCard",
+    "categoryName": "General Retail",
+    "code": "SAVE15",
+    "endDate": "2026-06-30T23:59:59-04:00"
+  },
+  {
+    "id": "rakuten-advertising:ra-002",
+    "source": "rakuten-advertising",
+    "sourceOfferId": "ra-002",
+    "type": "promoCode",
+    "discountType": "amountOff",
+    "value": 10,
+    "minSpend": 50,
+    "brandName": "Kohl's",
+    "productDescription": "$10 off $50+ at Kohls.com",
+    "categoryName": "Apparel",
+    "code": "KOHLS10",
+    "endDate": "2026-05-15T23:59:59-04:00"
+  }
+]

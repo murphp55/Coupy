@@ -1,0 +1,44 @@
+[
+  {
+    "id": "walgreens:wag-001",
+    "source": "walgreens",
+    "sourceOfferId": "wag-001",
+    "type": "digitalClipped",
+    "discountType": "amountOff",
+    "value": 2.00,
+    "minQty": 1,
+    "brandName": "Colgate",
+    "productDescription": "Colgate Total toothpaste",
+    "categoryName": "Oral Care",
+    "endDate": "2026-06-30T23:59:59-04:00",
+    "retailerId": "walgreens"
+  },
+  {
+    "id": "walgreens:wag-002",
+    "source": "walgreens",
+    "sourceOfferId": "wag-002",
+    "type": "digitalClipped",
+    "discountType": "amountOff",
+    "value": 3.00,
+    "minQty": 1,
+    "brandName": "Pampers",
+    "productDescription": "Pampers diapers",
+    "categoryName": "Baby",
+    "endDate": "2026-05-31T23:59:59-04:00",
+    "retailerId": "walgreens"
+  },
+  {
+    "id": "walgreens:wag-003",
+    "source": "walgreens",
+    "sourceOfferId": "wag-003",
+    "type": "digitalClipped",
+    "discountType": "percentOff",
+    "value": 20,
+    "minQty": 1,
+    "brandName": "Dove",
+    "productDescription": "Dove body wash",
+    "categoryName": "Bath & Body",
+    "endDate": "2026-05-15T23:59:59-04:00",
+    "retailerId": "walgreens"
+  }
+]

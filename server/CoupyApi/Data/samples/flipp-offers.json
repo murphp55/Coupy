@@ -1,0 +1,30 @@
+[
+  {
+    "id": "flipp:flp-001",
+    "source": "flipp",
+    "sourceOfferId": "flp-001",
+    "type": "digitalClipped",
+    "discountType": "amountOff",
+    "value": 0.50,
+    "minQty": 1,
+    "brandName": "Colgate",
+    "productDescription": "Colgate Total toothpaste weekly-ad sale",
+    "categoryName": "Oral Care",
+    "endDate": "2026-04-22T23:59:59-04:00",
+    "retailerId": "kroger"
+  },
+  {
+    "id": "flipp:flp-002",
+    "source": "flipp",
+    "sourceOfferId": "flp-002",
+    "type": "digitalClipped",
+    "discountType": "amountOff",
+    "value": 1.00,
+    "minQty": 1,
+    "brandName": "Tide",
+    "productDescription": "Tide Pods weekly-ad sale",
+    "categoryName": "Laundry",
+    "endDate": "2026-04-22T23:59:59-04:00",
+    "retailerId": "kroger"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "id": "kroger",
+  "name": "Kroger",
+  "rules": {
+    "perItemLimits": {
+      "Manufacturer": 1,
+      "DigitalClipped": 99
+    },
+    "oncePerBasket": [],
+    "rewardsAsTender": [],
+    "stackCashback": true,
+    "supportsPortalCashback": false,
+    "notes": "Kroger doesn't issue paper 'store' coupons — digital coupons clipped to the Kroger Plus card serve that role. One manufacturer coupon per item, plus any number of DIFFERENT digital coupons (can't stack the same digital offer twice). Covers all Kroger banners: Fred Meyer, King Soopers, Ralphs, Harris Teeter, Fry's, QFC, Smith's, Pick 'n Save, Metro Market, City Market.",
+    "policyUrl": "https://www.kroger.com/topic/coupon-policy"
+  }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "kroger:krg-001",
+    "source": "kroger",
+    "sourceOfferId": "krg-001",
+    "type": "digitalClipped",
+    "discountType": "amountOff",
+    "value": 1.50,
+    "minQty": 1,
+    "brandName": "Tide",
+    "productDescription": "Tide Pods detergent",
+    "categoryName": "Laundry",
+    "endDate": "2026-05-20T23:59:59-04:00",
+    "retailerId": "kroger"
+  },
+  {
+    "id": "kroger:krg-002",
+    "source": "kroger",
+    "sourceOfferId": "krg-002",
+    "type": "digitalClipped",
+    "discountType": "amountOff",
+    "value": 2.00,
+    "minQty": 1,
+    "brandName": "Pampers",
+    "productDescription": "Pampers Baby Dry diapers",
+    "categoryName": "Baby",
+    "endDate": "2026-05-31T23:59:59-04:00",
+    "retailerId": "kroger"
+  },
+  {
+    "id": "kroger:krg-003",
+    "source": "kroger",
+    "sourceOfferId": "krg-003",
+    "type": "digitalClipped",
+    "discountType": "amountOff",
+    "value": 1.00,
+    "minQty": 1,
+    "brandName": "Colgate",
+    "productDescription": "Colgate toothpaste",
+    "categoryName": "Oral Care",
+    "endDate": "2026-06-15T23:59:59-04:00",
+    "retailerId": "kroger"
+  }
+]

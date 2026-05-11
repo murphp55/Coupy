@@ -1,0 +1,54 @@
+[
+  {
+    "id": "ibotta:ib-001",
+    "source": "ibotta",
+    "sourceOfferId": "ib-001",
+    "type": "cashbackRebate",
+    "discountType": "amountOff",
+    "value": 1.00,
+    "minQty": 1,
+    "brandName": "Colgate",
+    "productDescription": "Colgate Total toothpaste",
+    "categoryName": "Oral Care",
+    "endDate": "2026-05-31T23:59:59-04:00"
+  },
+  {
+    "id": "ibotta:ib-002",
+    "source": "ibotta",
+    "sourceOfferId": "ib-002",
+    "type": "cashbackRebate",
+    "discountType": "amountOff",
+    "value": 2.00,
+    "minQty": 1,
+    "brandName": "Dove",
+    "productDescription": "Dove body wash",
+    "categoryName": "Bath & Body",
+    "endDate": "2026-05-25T23:59:59-04:00"
+  },
+  {
+    "id": "ibotta:ib-003",
+    "source": "ibotta",
+    "sourceOfferId": "ib-003",
+    "type": "cashbackRebate",
+    "discountType": "amountOff",
+    "value": 3.00,
+    "minQty": 1,
+    "brandName": "Pampers",
+    "productDescription": "Pampers diapers any size",
+    "categoryName": "Baby",
+    "endDate": "2026-06-15T23:59:59-04:00"
+  },
+  {
+    "id": "ibotta:ib-004",
+    "source": "ibotta",
+    "sourceOfferId": "ib-004",
+    "type": "cashbackRebate",
+    "discountType": "amountOff",
+    "value": 2.50,
+    "minQty": 1,
+    "brandName": "Gillette",
+    "productDescription": "Gillette razor cartridges",
+    "categoryName": "Shave",
+    "endDate": "2026-06-01T23:59:59-04:00"
+  }
+]

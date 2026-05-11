@@ -1,0 +1,67 @@
+[
+  {
+    "id": "couponscom:cc-001",
+    "source": "couponscom",
+    "sourceOfferId": "cc-001",
+    "type": "manufacturer",
+    "discountType": "amountOff",
+    "value": 1.00,
+    "minQty": 1,
+    "brandName": "Colgate",
+    "productDescription": "Colgate Total toothpaste",
+    "categoryName": "Oral Care",
+    "endDate": "2026-05-31T23:59:59-04:00"
+  },
+  {
+    "id": "couponscom:cc-002",
+    "source": "couponscom",
+    "sourceOfferId": "cc-002",
+    "type": "manufacturer",
+    "discountType": "amountOff",
+    "value": 3.00,
+    "minQty": 1,
+    "brandName": "Pampers",
+    "productDescription": "Pampers Baby Dry",
+    "categoryName": "Baby",
+    "endDate": "2026-06-10T23:59:59-04:00"
+  },
+  {
+    "id": "couponscom:cc-003",
+    "source": "couponscom",
+    "sourceOfferId": "cc-003",
+    "type": "manufacturer",
+    "discountType": "amountOff",
+    "value": 2.00,
+    "minQty": 1,
+    "brandName": "Tide",
+    "productDescription": "Tide Pods",
+    "categoryName": "Laundry",
+    "endDate": "2026-05-30T23:59:59-04:00"
+  },
+  {
+    "id": "couponscom:cc-004",
+    "source": "couponscom",
+    "sourceOfferId": "cc-004",
+    "type": "manufacturer",
+    "discountType": "amountOff",
+    "value": 4.00,
+    "minQty": 1,
+    "brandName": "Gillette",
+    "productDescription": "Gillette Fusion razor cartridges",
+    "categoryName": "Shave",
+    "endDate": "2026-06-20T23:59:59-04:00"
+  },
+  {
+    "id": "couponscom:cc-005",
+    "source": "couponscom",
+    "sourceOfferId": "cc-005",
+    "type": "manufacturer",
+    "discountType": "amountOff",
+    "value": 1.50,
+    "minQty": 1,
+    "brandName": "Dove",
+    "productDescription": "Dove body wash",
+    "categoryName": "Bath & Body",
+    "endDate": "2026-05-25T23:59:59-04:00"
+  }
+]

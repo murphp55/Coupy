@@ -1,0 +1,82 @@
+[
+  {
+    "id": "colgate-total-48oz",
+    "upc": "035000761026",
+    "brand": "Colgate",
+    "name": "Colgate Total Whitening Toothpaste 4.8 oz",
+    "size": "4.8 oz",
+    "category": "Oral Care",
+    "msrpPrice": 4.99,
+    "basePriceByRetailer": {
+      "walgreens": 3.99,
+      "cvs": 4.29,
+      "target": 3.89,
+      "kroger": 3.79,
+      "safeway": 4.49
+    }
+  },
+  {
+    "id": "dove-bodywash-22oz",
+    "upc": "011111005068",
+    "brand": "Dove",
+    "name": "Dove Deep Moisture Body Wash 22 oz",
+    "size": "22 oz",
+    "category": "Bath & Body",
+    "msrpPrice": 8.99,
+    "basePriceByRetailer": {
+      "walgreens": 7.49,
+      "cvs": 7.99,
+      "target": 6.99,
+      "kroger": 6.79,
+      "safeway": 7.79
+    }
+  },
+  {
+    "id": "pampers-baby-dry-84ct",
+    "upc": "037000862550",
+    "brand": "Pampers",
+    "name": "Pampers Baby Dry Diapers Size 3, 84 ct",
+    "size": "84 ct",
+    "category": "Baby",
+    "msrpPrice": 27.99,
+    "basePriceByRetailer": {
+      "walgreens": 24.99,
+      "cvs": 25.99,
+      "target": 22.99,
+      "kroger": 22.49,
+      "safeway": 24.99
+    }
+  },
+  {
+    "id": "tide-pods-42ct",
+    "upc": "037000930372",
+    "brand": "Tide",
+    "name": "Tide Pods Original Laundry Detergent, 42 ct",
+    "size": "42 ct",
+    "category": "Laundry",
+    "msrpPrice": 13.99,
+    "basePriceByRetailer": {
+      "walgreens": 12.99,
+      "cvs": 12.49,
+      "target": 11.99,
+      "kroger": 11.49,
+      "safeway": 12.99
+    }
+  },
+  {
+    "id": "gillette-fusion-4ct",
+    "upc": "047400657076",
+    "brand": "Gillette",
+    "name": "Gillette Fusion5 Razor Cartridges, 4 ct",
+    "size": "4 ct",
+    "category": "Shave",
+    "msrpPrice": 19.99,
+    "basePriceByRetailer": {
+      "walgreens": 18.99,
+      "cvs": 17.99,
+      "target": 16.99,
+      "kroger": 17.49,
+      "safeway": 18.49
+    }
+  }
+]

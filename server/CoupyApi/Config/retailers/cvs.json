@@ -1,0 +1,17 @@
+{
+  "id": "cvs",
+  "name": "CVS Pharmacy",
+  "rules": {
+    "perItemLimits": {
+      "Manufacturer": 1,
+      "Store": 1,
+      "DigitalClipped": 99
+    },
+    "oncePerBasket": ["Store"],
+    "rewardsAsTender": ["LoyaltyReward"],
+    "stackCashback": true,
+    "supportsPortalCashback": false,
+    "notes": "One manufacturer coupon per item. $-off-your-purchase ExtraCare coupons are per-basket (not per-item). Percentage-off ExtraCare coupons stack with dollar-off. ExtraBucks print as tender and can be used on almost anything except gift cards/prescriptions. Ibotta and Fetch stack on top.",
+    "policyUrl": "https://www.cvs.com/content/coupon-policy"
+  }
+}
